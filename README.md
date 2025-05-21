@@ -24,6 +24,66 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/f8005da7-8402-43f4-8a98-d2b43295ea8f)
+
+![image](https://github.com/user-attachments/assets/12b56a94-86a8-43ad-9fd6-b313b7428768)
+
+![image](https://github.com/user-attachments/assets/b00cb808-4a31-4d05-82f9-ce5f4f572882)
+
+
+![image](https://github.com/user-attachments/assets/824b727a-03e8-4466-ae23-3ac4b5718ef4)
+
+![image](https://github.com/user-attachments/assets/4c6716bb-dd84-4324-b387-d419a395fe23)
+
+![image](https://github.com/user-attachments/assets/39b469a7-7e97-4ba1-a3bc-3e4c17aa2d04)
+
+![image](https://github.com/user-attachments/assets/ae90ecb7-9830-4dc2-a312-70b6f7c2c0fa)
+
+![image](https://github.com/user-attachments/assets/e5223700-4e87-46a1-a71d-2119bae9dc92)
+
+![image](https://github.com/user-attachments/assets/3596a78e-d02f-4a81-9f78-5a2bda5710bb)
+
+![image](https://github.com/user-attachments/assets/e46074cf-2f55-457c-9236-42d4de6f1de2)
+
+![image](https://github.com/user-attachments/assets/f17d2ea1-c0d5-4c8e-842b-82a29f44116e)
+
+![image](https://github.com/user-attachments/assets/c3f0a521-d014-4a29-bb69-f84195b33597)
+
+![image](https://github.com/user-attachments/assets/a2a01c63-ac01-43c6-bca5-450dd3b1f35f)
+
+![image](https://github.com/user-attachments/assets/f456f211-cd45-447b-838c-c8f22a7c0eb4)
+
+![image](https://github.com/user-attachments/assets/d0c8bcd7-ceac-4c3a-b46d-bb344a311c35)
+
+![image](https://github.com/user-attachments/assets/34cf5506-1565-466a-ae11-cfe34098eaad)
+
+![image](https://github.com/user-attachments/assets/5968b3fc-7c3d-4ab1-a9c8-ba5dbb857952)
+
+![image](https://github.com/user-attachments/assets/87fad7c6-82db-4a0e-beb9-271fedb8dfd9)
+
+![image](https://github.com/user-attachments/assets/6ff470e3-2cdc-4c47-b26d-1211bd66efc9)
+
+![image](https://github.com/user-attachments/assets/f6cc8454-38ce-43a6-afad-d7798b39d8b6)
+
+![image](https://github.com/user-attachments/assets/6f2b4ee4-cf35-4b5d-a217-4364b96b9461)
+
+![image](https://github.com/user-attachments/assets/d2f60dcc-03fa-4667-8bf4-7fb9b7b05255)
+
+![image](https://github.com/user-attachments/assets/64428b89-2f9c-46da-a4a7-9945f88c1bcb)
+
+![image](https://github.com/user-attachments/assets/d46cdcaa-ac77-4593-a891-d5f3659b3d6e)
+
+![image](https://github.com/user-attachments/assets/772401d6-2f10-4a3a-a50b-4a28f15253b1)
+
+![image](https://github.com/user-attachments/assets/5f8d6565-9064-462e-a724-67ddd1a5d951)
+
+![image](https://github.com/user-attachments/assets/c6b5a99a-da01-4886-b82d-c2cbbe88666e)
+
+![image](https://github.com/user-attachments/assets/0d43f58c-ab5e-418e-8fdd-fea92e422a14)
+
+![image](https://github.com/user-attachments/assets/7b330436-3448-46c6-88bb-aa5fbb39a140)
+
+![image](https://github.com/user-attachments/assets/2e096dec-2943-4dc7-a43f-95cd0627ccfb)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the given data, Feature Scaling and Feature Selection and save the data to a file was performed successfully.
